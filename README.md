@@ -11,4 +11,7 @@ $ cd SpammerBot
 $ chmod +x spam.py
 $ ./spam.py
 ```
+# Screenshot
+![Screen1](https://github.com/vakh0/Screenshots/blob/main/SpamBot/spam.png)
+
 # Coded by - WebDux (vakh0) -
